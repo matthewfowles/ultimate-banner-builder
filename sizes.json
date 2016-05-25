@@ -1,0 +1,11 @@
+{
+    "dimensions": [{
+        "width": 250,
+        "height": 300,
+        "prefix": "prospective-"
+    }, {
+        "width": 200,
+        "height": 300,
+        "prefix": "prospective-"
+    }]
+}

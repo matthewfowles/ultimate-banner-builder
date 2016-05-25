@@ -1,0 +1,24 @@
+{
+  "name": "ultimate-banner-builder",
+  "version": "0.0.1",
+  "description": "A banner build template that also works to generate static versions",
+  "main": "index.js",
+  "scripts": {
+    "generate": "babel-node build/generate-templates.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matthewfowles/ultimate-banner-builder.git"
+  },
+  "author": "Matthew Fowles",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matthewfowles/ultimate-banner-builder/issues"
+  },
+  "homepage": "https://github.com/matthewfowles/ultimate-banner-builder#readme",
+  "dependencies": {
+    "babel-cli": "^6.9.0",
+    "babel-preset-es2015": "^6.9.0",
+    "chalk": "^1.1.3"
+  }
+}
